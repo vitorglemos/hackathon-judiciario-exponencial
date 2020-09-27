@@ -14,3 +14,7 @@
 ### Audio de exemplo 
 <a href="https://github.com/vitorglemos/hackathon-judiciario-exponencial/tree/master/samples_ogg">Audio de transcrição do Watson</a>
 
+
+### Equipe
+<img src="https://github.com/vitorglemos/hackathon-judiciario-exponencial/blob/master/samples_img/equipe.png?raw=true"></a></p>
+
