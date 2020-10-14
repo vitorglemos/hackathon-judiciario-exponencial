@@ -1,4 +1,4 @@
-# hackathon-judiciario-exponencial
+# Hackathon Judiciario Exponencial
 <img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a></p>
 
 ## Inteligência Artificial que aprende sobre direitos do consumidor
